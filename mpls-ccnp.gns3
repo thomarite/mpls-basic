@@ -39,9 +39,9 @@
                 "drawing_id": "be07ac23-64dd-4d7c-b7a1-14c12e75fd82",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg width=\"49\" height=\"42\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">OSPF\narea0</text></svg>",
-                "x": -97,
-                "y": -70,
+                "svg": "<svg width=\"54\" height=\"42\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\"> OSPF\narea 0</text></svg>",
+                "x": -98,
+                "y": -83,
                 "z": 2
             },
             {
@@ -132,6 +132,33 @@
                 "svg": "<svg width=\"121\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">lo0 172.16.20.1</text></svg>",
                 "x": 137,
                 "y": 231,
+                "z": 2
+            },
+            {
+                "drawing_id": "62ff3be0-2abb-47ac-9edd-a01fc31ccc56",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"695\" height=\"238\"><rect width=\"695\" height=\"238\" fill=\"#ffffff\" fill-opacity=\"1.0\" stroke-width=\"2\" stroke=\"#000000\" /></svg>",
+                "x": -408,
+                "y": 28,
+                "z": -1
+            },
+            {
+                "drawing_id": "26c29148-7403-4085-8cef-acbaeec5d355",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"63\" height=\"42\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">  OSPF\narea 10</text></svg>",
+                "x": -104,
+                "y": 124,
+                "z": 2
+            },
+            {
+                "drawing_id": "d2221d3c-34b1-48ff-9014-7431b96854c2",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg width=\"61\" height=\"25\"><text font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\" fill=\"#000000\" fill-opacity=\"1.0\">CUST-A</text></svg>",
+                "x": -658,
+                "y": 183,
                 "z": 2
             }
         ],
@@ -603,8 +630,8 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "eb2ab061-3a4f-4e28-a629-6052196405b9",
                 "width": 66,
-                "x": 155,
-                "y": 181,
+                "x": 148,
+                "y": 182,
                 "z": 1
             }
         ]
