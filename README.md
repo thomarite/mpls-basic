@@ -3,3 +3,7 @@ This is a basic MPLS design built in GNS3 to understand this technolgy. My first
 This lab is built on c7200-adventerprisek9-mz.124-24.T2
 
 My laptop is running Debian 10 Testing, Intel i7 and 8GB RAM.
+
+This is the network diagram
+
+![](images/mpls-l3vpn-basic.png)
