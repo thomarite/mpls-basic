@@ -1,0 +1,1 @@
+This is a basic MPLS design built in GNS3 to understand this technolgy. My first contact with MPLS was when I was studying my CCNP RS back in 2009. In the curriculum of CCNP in that time there was a brilliant lab that get you to the basic and that has always been my base for MPLS.
